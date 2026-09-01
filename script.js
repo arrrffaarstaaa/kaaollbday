@@ -22,43 +22,43 @@ const songs = [
     {
         title: "CHANGE UP",
         artist: "SEVENTEEN",
-        file: "music/change-up.mp3"
+        file: "change-up.mp3"
     },
 
     {
         title: "Smile Flower",
         artist: "SEVENTEEN",
-        file: "music/smile-flower.mp3"
+        file: "smile-flower.mp3"
     },
 
     {
         title: "PINOCCHIO (feat. So!YoON!)",
         artist: "HxW, So!YoON!",
-        file: "music/pinocchio.mp3"
+        file: "pinocchio.mp3"
     },
 
     {
         title: "Baby, Honey",
         artist: "HOSHI",
-        file: "music/baby-honey.mp3"
+        file: "baby-honey.mp3"
     },
 
     {
         title: "Cheers to youth",
         artist: "Vocal Team — SEVENTEEN",
-        file: "music/cheers-to-youth.mp3"
+        file: "cheers-to-youth.mp3"
     },
 
     {
         title: "Water",
         artist: "HipHop Team — SEVENTEEN",
-        file: "music/water.mp3"
+        file: "water.mp3"
     },
 
     {
         title: "I Don't Understand But I Luv U",
         artist: "Performance Team — SEVENTEEN",
-        file: "music/i-dont-understand.mp3"
+        file: "i-dont-understand.mp3"
     }
 
 ];
